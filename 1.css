@@ -1,0 +1,54 @@
+.style
+{
+color:#F2F3F4;
+background-color:#FE6F5E;
+border:1px #FE6F5E solid; text-align: center;	
+}
+
+.style a {
+	padding: 128px 16px;
+	color:#F2F3F4;
+}
+.sty
+ 
+{
+	color: #F2F3F4;
+ 	background-color:#000000;
+ 	border:1px #FF0CFF solid;
+ 	  }
+.st
+{
+	color: #FFFBFB;
+	background-color: #535353;
+	border: 3px #F2F3F4 solid;
+	padding: 130px 16px;
+	text-align: center;
+}
+.h1{
+	text-align: center;
+}
+.box{
+	color: #000000;
+	text-align: center; 
+}
+.dive
+{
+	color:#F2F3F4;
+background-color:#FE6F5E;
+
+}
+.col{
+	color:#F2F3F4;
+}
+.block{
+	display: inline-block;
+	width:49%;
+	text-align: center;
+	margin: auto;
+}
+
+block2{
+	display: inline-block;
+	width: 50%;
+
+}
